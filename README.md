@@ -1,2 +1,2 @@
-# SayiTahmin
-Kullanım bash sayi-tahmin.sh
+# Kullanım
+ bash sayi-tahmin.sh
