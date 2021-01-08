@@ -20,7 +20,7 @@ echo -n "Tahmininiz: "
 read n 
 echo -e "$green"
 
-echo $((cevap = 1 + $RANDOM % 100))
+$((cevap = 1 + $RANDOM % 100))
 clear
 
 
