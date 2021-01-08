@@ -21,6 +21,7 @@ read n
 echo -e "$green"
 
 echo $((cevap = 1 + $RANDOM % 100))
+clear
 
 
 while (( $n != cevap )); do
